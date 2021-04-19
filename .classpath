@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/jarfiles/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/jarfiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
